@@ -3,7 +3,7 @@
 ### 🚀 About
 Welcome to my Github! <br><br>
 🦊 I'm Dylan Fox, an <b>Analytics Developer</b> out of Kansas City, MO. <br>
-📚 I graduated from <b>Graceland University</b> with a BS with Honors in <b>CSIT, Math, & Data Science</b>. I'm currently pursing my MS in <b>Data Science</b> at Graceland. <br>
+📚 I graduated from <b>Graceland University</b> with a BS with Honors in <b>CSIT, Math, & Data Science</b>. I'm currently pursuing my MS in <b>Data Science</b> at Graceland. <br>
 💻 I currently work for <b>Evolytics</b>, one of the fastest growing and top analytics consulting firms. <br>
 🌱 Lately I've been deepening my knowledge of <b>front-end development</b> and studying for the <b>Adobe Analytics Expert Developer</b> certification. <br>
 🏃‍♂️ Outside of tech, I enjoy running, playing soccer, exploring new disc glf courses, and spending times with friends & family. <br>
