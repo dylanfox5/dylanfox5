@@ -2,23 +2,7 @@
 
 ### 🚀 About
 Welcome to my Github! <br><br>
-🦊 I'm Dylan Fox, an <b>Analytics Developer</b> out of Kansas City, MO. <br>
-📚 I graduated from <b>Graceland University</b> with a BS with Honors in <b>CSIT, Math, & Data Science</b>. I'm currently pursuing my MS in <b>Data Science</b> at Graceland. <br>
-💻 I currently work for <b>Evolytics</b>, one of the fastest growing and top analytics consulting firms. <br>
-🌱 Lately I've been deepening my knowledge of <b>front-end development</b> and learning about <b>ReactJS<b> and <b>NodeJS<b>. <br>
+🦊 I'm Dylan Fox, a <b>Data Scientist</b> out of Kansas City, MO. <br>
+📚 I graduated from <b>Graceland University</b> with a BS with Honors in <b>CSIT, Math, & Data Science</b>. I completed my MS in <b>Data Science</b> in May 2023. <br>
+💻 I currently work for <b>Honeywell</b>. <br>
 🏃‍♂️ Outside of tech, I enjoy running, playing soccer, exploring new disc glf courses, and spending time with friends & family. <br>
-
-<!--
-**dylanfox5/dylanfox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
